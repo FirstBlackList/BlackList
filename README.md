@@ -13,11 +13,12 @@
 
 </p>
 
+***
+<p align="center" style="margin: 10% ;font-size: 17px; font-weight: 500; color: #345555">
+Возможно со временем я и добавлю сюда какую-то информацию о себе. Но не сейчас.
+</p>
 
-***
->**Возможно со временем я и добавлю сюда какую-то информацию о себе. Но не сейчас.**
-***
-<p style="font-size: 18px; font-style: italic; text-shadow: 2px 2px blue;" align="center">
+<p style="color: #876866; font-size: 18px; font-style: italic; text-shadow: 2px 2px  #243435;" align="center">
 Картинка: (всё как и было описано))
 </p>
 <br>
